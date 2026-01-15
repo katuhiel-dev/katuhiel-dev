@@ -5,17 +5,12 @@
   <img src="https://komarev.com/ghpvc/?username=katuhiel-dev&label=Profile%20views&color=0e75b6&style=flat" alt="katuhiel-dev" />
 </p>
 
-<<h3>📚 Now studying</h3>
+<h3>📚 Now studying</h3>
 <p>
   Python ██████░░░░ 60% <br>
   Java ███░░░░░░░░░ 30% <br>
   Blender ██████░░░░ 60% <br>
-  Thermodynamics ░░░░░░░░░░ -10% 💀
-</p>
-
-<h3>🎵 Currently Listening </h3>
-<p>
-  <a href="https://open.spotify.com/" target="_blank" rel="noreferrer">🔗 Open Spotify</a>
+  Thermodynamics ░░░░░░░░░░ 😥
 </p>
 
 <h3>🏧⚡ Monster Energy Vending Machine </h3>
