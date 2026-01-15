@@ -5,41 +5,40 @@
   <img src="https://komarev.com/ghpvc/?username=katuhiel-dev&label=Profile%20views&color=0e75b6&style=flat" alt="katuhiel-dev" />
 </p>
 
-<h2>🎧 Study Dashboard</h2>
-
-<h3>📚 Now studying</h3>
+<<h3>📚 Now studying</h3>
 <p>
-  Python & Data Tools ███████░░░ 70% <br>
-  Git/GitHub █████░░░░░ 50% <br>
-  How ███░░░░░░░░░ 30%
+  Python ██████░░░░ 60% <br>
+  Java ███░░░░░░░░░ 30% <br>
+  Blender ██████░░░░ 60% <br>
+  Thermodynamics ░░░░░░░░░░ -10% 💀
 </p>
 
-<h3>🎵 Current study song</h3>
+<h3>🎵 Currently Listening </h3>
 <p>
   <a href="https://open.spotify.com/" target="_blank" rel="noreferrer">🔗 Open Spotify</a>
 </p>
 
-<h3>🥤 Energy Drink Tower</h3>
+<h3>🏧⚡ Monster Energy Vending Machine </h3>
 
 <p>
-  <b>Total energy drinks to date:</b>
+  <b>Total cans to date:</b>
   <img src="assets/total_count.svg" height="22" alt="total drinks"/>
 </p>
 
-<p><b>Pick a flavor:</b></p>
+<p><b>Dispense a Flavor:</b></p>
 
 <p>
-  <a href="https://github.com/katuhiel-dev/katuhiel-dev/issues/new?title=add-drink:original">Original</a> ·
-  <a href="https://github.com/katuhiel-dev/katuhiel-dev/issues/new?title=add-drink:ultra-zero">Ultra Zero</a> ·
-  <a href="https://github.com/katuhiel-dev/katuhiel-dev/issues/new?title=add-drink:electric-blue">Electric Blue</a> ·
-  <a href="https://github.com/katuhiel-dev/katuhiel-dev/issues/new?title=add-drink:sunrise">Sunrise</a> ·
-  <a href="https://github.com/katuhiel-dev/katuhiel-dev/issues/new?title=add-drink:ultra-black">Ultra Black</a> ·
-  <a href="https://github.com/katuhiel-dev/katuhiel-dev/issues/new?title=add-drink:rosa">Rosa</a> ·
-  <a href="https://github.com/katuhiel-dev/katuhiel-dev/issues/new?title=add-drink:paradise">Paradise</a>
+  <a href="https://github.com/katuhiel-dev/katuhiel-dev/issues/new?title=add-drink&body=flavor:original">Original</a> ·
+  <a href="https://github.com/katuhiel-dev/katuhiel-dev/issues/new?title=add-drink&body=flavor:ultra-zero">Ultra Zero</a> ·
+  <a href="https://github.com/katuhiel-dev/katuhiel-dev/issues/new?title=add-drink&body=flavor:electric-blue">Electric Blue</a> ·
+  <a href="https://github.com/katuhiel-dev/katuhiel-dev/issues/new?title=add-drink&body=flavor:sunrise">Sunrise</a> ·
+  <a href="https://github.com/katuhiel-dev/katuhiel-dev/issues/new?title=add-drink&body=flavor:ultra-black">Ultra Black</a> ·
+  <a href="https://github.com/katuhiel-dev/katuhiel-dev/issues/new?title=add-drink&body=flavor:rosa">Rosa</a> ·
+  <a href="https://github.com/katuhiel-dev/katuhiel-dev/issues/new?title=add-drink&body=flavor:paradise">Paradise</a>
 </p>
 
 <p>
-  <b>This week’s tower:</b><br>
+  <b><i>How many energy drinks can an engineering student have in a week?</i></b><br>
   <img src="assets/tower_week.png" width="520" alt="Energy drink tower (this week)"/>
 </p>
 
