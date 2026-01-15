@@ -29,13 +29,13 @@
 <p><b>Pick a flavor:</b></p>
 
 <p>
-  <a href="https://github.com/katuhiel-dev/katuhiel-dev/issues/new?title=add-drink&body=flavor:original">Original</a> ·
-  <a href="https://github.com/katuhiel-dev/katuhiel-dev/issues/new?title=add-drink&body=flavor:ultra-zero">Ultra Zero</a> ·
-  <a href="https://github.com/katuhiel-dev/katuhiel-dev/issues/new?title=add-drink&body=flavor:electric-blue">Electric Blue</a> ·
-  <a href="https://github.com/katuhiel-dev/katuhiel-dev/issues/new?title=add-drink&body=flavor:sunrise">Sunrise</a> ·
-  <a href="https://github.com/katuhiel-dev/katuhiel-dev/issues/new?title=add-drink&body=flavor:ultra-black">Ultra Black</a> ·
-  <a href="https://github.com/katuhiel-dev/katuhiel-dev/issues/new?title=add-drink&body=flavor:rosa">Rosa</a> ·
-  <a href="https://github.com/katuhiel-dev/katuhiel-dev/issues/new?title=add-drink&body=flavor:paradise">Paradise</a>
+  <a href="https://github.com/katuhiel-dev/katuhiel-dev/issues/new?title=add-drink:original">Original</a> ·
+  <a href="https://github.com/katuhiel-dev/katuhiel-dev/issues/new?title=add-drink:ultra-zero">Ultra Zero</a> ·
+  <a href="https://github.com/katuhiel-dev/katuhiel-dev/issues/new?title=add-drink:electric-blue">Electric Blue</a> ·
+  <a href="https://github.com/katuhiel-dev/katuhiel-dev/issues/new?title=add-drink:sunrise">Sunrise</a> ·
+  <a href="https://github.com/katuhiel-dev/katuhiel-dev/issues/new?title=add-drink:ultra-black">Ultra Black</a> ·
+  <a href="https://github.com/katuhiel-dev/katuhiel-dev/issues/new?title=add-drink:rosa">Rosa</a> ·
+  <a href="https://github.com/katuhiel-dev/katuhiel-dev/issues/new?title=add-drink:paradise">Paradise</a>
 </p>
 
 <p>
