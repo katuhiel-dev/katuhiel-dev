@@ -1,5 +1,5 @@
 <h1 align="center">Hello there 👋, I'm Kat</h1>
-<h3 align="center">A STEM student living between the USA and Mexico</h3>
+<h3 align="center">A STEM student living between Dallas (USA) and Monterrey (MX) </h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=katuhiel-dev&label=Profile%20views&color=0e75b6&style=flat" alt="katuhiel-dev" />
@@ -12,7 +12,14 @@
   Blender ██████░░░░ 60% <br>
 </p>
 
-<h3>🏧⚡ Monster Energy Vending Machine </h3>
+<h3>
+  <img src="https://github.com/user-attachments/assets/8f3ece15-901c-4052-8738-29aec7b11e85"
+       height="38"
+       alt="Vending Machine"
+       style="vertical-align: middle; margin-right: 8px;" />
+  Monster Energy Vending Machine
+</h3>
+
 
 <p>
   <b>Total cans to date:</b>
@@ -63,3 +70,5 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
 </p>
+
+
