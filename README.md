@@ -1,4 +1,4 @@
-<h1 align="center">Hello there 👋, I'm Kat</h1>
+<h1 align="center">Hiii 👋, I'm Kat</h1>
 <h3 align="center">A STEM student living between Dallas (USA) and Monterrey (MX) </h3>
 
 <p align="left">
