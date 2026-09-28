@@ -8,7 +8,7 @@
 <h3>📚 Now studying</h3>
 <p>
   Python ████████░░ 80% <br>
-  Java ██████░░░░ 60% <br>
+  C++ █░░░░░░░░░ 10% <br>
   Blender ████████░ 90% <br>
 </p>
 
