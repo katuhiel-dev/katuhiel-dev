@@ -1,4 +1,4 @@
-<h1 align="center">Hiii 👋, I'm Kat</h1>
+<h1 align="center">Kat was here :) <h1>
 <h3 align="center">A STEM student living between Dallas (USA) and Monterrey (MX) </h3>
 
 <p align="left">
@@ -70,5 +70,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
 </p>
+
+<h4>Only able to do it all with the support of my fiance, Ily Emilio <3</h4>
 
 
