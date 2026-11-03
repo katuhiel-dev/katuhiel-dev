@@ -1,16 +1,45 @@
-<h1 align="center">Kat was here :) <h1>
-<h3 align="center">A STEM student living between Dallas (USA) and Monterrey (MX) </h3>
+<div align="center">
+  <img src="assets/banner.jpg" alt="pixel angel cats by the sea" width="100%" />
+  <sub>banner art by <a href="https://www.instagram.com/awaawa_suisoh/">@awaawa_suisoh</a> 🐟</sub>
+</div>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=katuhiel-dev&label=Profile%20views&color=0e75b6&style=flat" alt="katuhiel-dev" />
+<h1 align="center">˚₊‧ Kat was here :) ‧₊˚</h1>
+<p align="center"><i>ITC student @ Tec de Monterrey</i></p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=katuhiel-dev&label=visitors&color=7aa2d8&style=flat-square" alt="visitors" />
 </p>
 
-<h3>📚 Now studying</h3>
-<p>
-  Python ████████░░ 80% <br>
-  C++ █░░░░░░░░░ 10% <br>
-  Blender ████████░ 90% <br>
+<hr>
+
+<p align="center">
+  <i>"I think engineering and code are creative fields at heart.<br>
+  Every robot, website, and line of code started as something someone imagined."</i><br>
+  🫧
 </p>
+
+<hr>
+
+<h3>🐚 Fun facts about me</h3>
+<ul>
+  <li>🌊 I live between <b>Monterrey, Mexico</b> 🇲🇽 and <b>Dallas, USA</b> 🇺🇸</li>
+  <li>🐱 My cats (Boona, Link, Pedro, Zumo) are depending on me to make a career for myself </li>
+  <li>🔧 I started in mechatronics before switching to computer science (mechatronics is my ex I never can forget about)</li>
+  <li>🎨 I make 3D art in Blender for fun! I also really enjoy pixel art</li>
+  <li>🤖 Right now outside of my classes, my life revolves around FrED Factory (Project Manager w/ Tec & MIT), WIT (Software Director), Orbita (Software Lead), and helping out as the Lead of Attendee Operations for the FrED Factory Summit Logistics!</li>
+  <li>💙 I'm looking forward to working in the Beta Testing team for <a href="https://www.instagram.com/sagecadence_/">@sagecandace_</a>'s starjam cyberdeck project! I really love the internet trends going on with personalizing tech (hoping to make my own digital hairclip soon!)
+    
+   <li> <i>Often times you can find me on campus eating maruchan @ the bibliotec terrace ;)</i>
+</ul>
+
+<h3>🐟 Currently swimming in</h3>
+<pre>
+  ><(((°>   learning cybersecurity on TryHackMe
+  ><(((°>   learning to rice my os
+  ><(((°>   robots, robots, robots
+</pre>
+
+<hr>
 
 <h3>
   <img src="https://github.com/user-attachments/assets/8f3ece15-901c-4052-8738-29aec7b11e85"
@@ -19,7 +48,6 @@
        style="vertical-align: middle; margin-right: 8px;" />
   Monster Energy Vending Machine
 </h3>
-
 
 <p>
   <b>Total cans to date:</b>
@@ -43,34 +71,36 @@
   <img src="assets/tower_week.png" width="520" alt="Energy drink tower (this week)"/>
 </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://instagram.com/katuhiel" target="blank">
-    <img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="katuhiel" height="30" width="40" />
-  </a>
-</p>
+<hr>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
-    <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/>
-  </a>
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
-  </a>
-  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
-  </a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-</p>
+<h3>🧸 My toolbox</h3>
 
-<h4>Only able to do it all with the support of my fiance, Ily Emilio <3</h4>
+<p><b>🐍 Code</b></p>
+<img src="https://skillicons.dev/icons?i=python,cpp,ts,html,css&theme=dark" alt="code" />
 
+<p><b>🌐 Web</b></p>
+<img src="https://skillicons.dev/icons?i=nextjs,tailwind,vercel,cloudflare&theme=dark" alt="web" />
 
+<p><b>🤖 Robots & hardware</b></p>
+<img src="https://skillicons.dev/icons?i=raspberrypi,opencv,linux,ubuntu&theme=dark" alt="robotics" />
+
+<p><b>🎨 Art & design</b></p>
+<img src="https://skillicons.dev/icons?i=blender,figma,ps,ai&theme=dark" alt="design" />
+
+<p><b>🛠️ Everyday</b></p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,matlab&theme=dark" alt="tools" />
+
+<hr>
+
+<div align="center">
+  <h3>⋆｡˚ Come say hi ˚｡⋆</h3>
+  <a href="https://instagram.com/katuhiel" target="_blank">
+    <img src="https://img.shields.io/badge/instagram-7aa2d8?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
+  </a>
+
+  <br><br>
+
+  <h4>Only able to do it all with the support of my fiance, Ily Emilio &lt;3</h4>
+
+  ˚｡⋆🐟⋆｡˚
+</div>
